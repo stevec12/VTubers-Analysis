@@ -1,6 +1,8 @@
 # Hololive-VTubers
 Projects related to Hololive or VTubers.
 
+Initial ideas and prototyping: "Hololive Data Analysis Ideas.ipynb"
+
 Prototype scope: Comment Language Makeup, Word and Emoji Analysis, RNN (GRU) training with comments and prompting. One video of one VTuber.
 
 Next scaled product: 50 videos of one VTuber.

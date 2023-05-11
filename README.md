@@ -1,4 +1,4 @@
 # Hololive-VTubers
 Projects related to Hololive or VTubers.
 
-Private repo, with public updated later.
+Prototype scope: Comment Language Makeup, Word and Emoji Analysis, RNN (GRU) training with comments and prompting.

@@ -22,7 +22,10 @@ Use TensorFlow transformers for Comment Prompting, given a initial prompt: "Comm
 - Focuses on the EN VTuber 'Ceres Fauna', alievating translation issues of prototyping.
 - `temperature` arguement allows for non-deterministic predictions
 
-Next step is to use TensorFlow.js to serve in a web application. 
+Possible Next steps:
+- implement a model using a dynamic array, rather than using a static preset MAX_TOKENS and always training/inferring using tensors padded to MAX_TOKENS
+- model optimization for hyperparameters (KerasTuner) and weights 
+- use TensorFlow.js to serve in a web application. 
 
 
 

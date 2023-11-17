@@ -24,8 +24,9 @@ Use TensorFlow transformers for Comment Prompting, given a initial prompt: "Comm
 
 Possible Next steps:
 - implement a model using a dynamic array, rather than using a static preset MAX_TOKENS and always training/inferring using tensors padded to MAX_TOKENS
+- feature selection and more preprocessing of sentences
 - model optimization for hyperparameters (KerasTuner) and weights 
 - use TensorFlow.js to serve in a web application. 
-
+  
 
 
